@@ -1,11 +1,12 @@
 <template>
-	<div id="app">
-		<router-view></router-view>
+	<div>
+		
+		welcome
+		
 	</div>
 </template>
 
 <script>
-
 </script>
 
 <style>
